@@ -50,6 +50,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/VUE-blue?style=for-the-badge&logo=vue.js&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
+
 
 <br>
 
@@ -58,6 +60,9 @@
     ![Static Badge](https://img.shields.io/badge/AWS_CLOUD-blue?style=for-the-badge&logo=amazon%20web%20services&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
   ![Static Badge](https://img.shields.io/badge/GOOGLE_CLOUD-blue?style=for-the-badge&logo=google%20cloud&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/REACT-purple?style=for-the-badge&logo=react&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
+![Static Badge](https://img.shields.io/badge/ANGULAR-green?style=for-the-badge&logo=angular&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
+
     
 <br>
 
