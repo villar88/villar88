@@ -37,7 +37,7 @@
    ![Static Badge](https://img.shields.io/badge/php-10-green?style=for-the-badge&logo=php&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
 ![Static Badge](https://img.shields.io/badge/nodejs-10-green?style=for-the-badge&logo=node.js&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
 ![Static Badge](https://img.shields.io/badge/javascript-10-green?style=for-the-badge&logo=javascript&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
-![Static Badge](https://img.shields.io/badge/java-8-green?logo=java&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
+![Static Badge](https://img.shields.io/badge/java-8-green?style=for-the-badge&logo=java&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
 ![Static Badge](https://img.shields.io/badge/python-5-orange?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar)
 
 
