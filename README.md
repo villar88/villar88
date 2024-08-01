@@ -34,9 +34,12 @@
 
 - **Languages**:
     
-    https://badgen.net/static/PHP/10/green
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    <img alt="Static Badge" src="https://img.shields.io/badge/php-10-green?logo=php&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar">
+<img alt="Static Badge" src="https://img.shields.io/badge/nodejs-10-green?logo=node.js&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-10-green?logo=javascript&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar">
+<img alt="Static Badge" src="https://img.shields.io/badge/java-8-green?logo=java&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar">
+<img alt="Static Badge" src="https://img.shields.io/badge/phyton-5-orange?logo=python&logoColor=white&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar">
+
 
 <br>   
     
