@@ -116,10 +116,11 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  villar88-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://villartechnologies.com.ve/employee/jose-villar" target="_blank">
+<img src="https://img.shields.io/badge/villartechnologies:  villar88-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
+<img alt="Static Badge" src="https://img.shields.io/badge/villartechnologies%20-%20Jose%20Rojas?style=flat-square&color=blue&link=https%3A%2F%2Fvillartechnologies.com.ve%2Femployee%2Fjose-villar">
 
 <br>
 
