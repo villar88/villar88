@@ -18,6 +18,8 @@
 
 - A passionate Self-taught Full Stack Developer
 - Backend expert in Php (Laravel, Codeigniter, Symfony, Cakephp, Wordpress, Shopify)
+- Backend expert in Nodejs and Typescript.
+- Backend expert in Java (Spring boot, Spring MVC)
 - Frontend expert in Tailwind, Bootstrap and Javascript Frameworks (Vuejs, Nuxtjs, Reactjs, Angular)
 - Company website [link](https://villartechnologies.com.ve/)
 - I’m currently open for a new job opportunity.
