@@ -9,20 +9,45 @@
 <br>
 
 
+👋 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!
+I'm a Web Developer with over 10 years of experience, specializing in PHP (Laravel) and modern JavaScript frameworks. I help startups and businesses build secure, fast, and scalable web applications — from backend systems to dynamic, responsive frontends.
 
-	
-##  **About me**
+✅ 𝙈𝙮 𝘾𝙤𝙧𝙚 𝙀𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚:
+PHP & Laravel (8+ years): Strong expertise in Laravel, Nova, Filament, Livewire, Sanctum, and REST API development.
 
+JavaScript Ecosystem: Skilled in Node.js, Express, Vue, React, Angular, and Next.js.
 
-<br>
+Styling & UI: Expert in Tailwind CSS, Bootstrap, and Material Design — mobile-first and responsive focus.
 
-- A passionate Self-taught Full Stack Developer
-- Backend expert in Php (Laravel, Codeigniter, Symfony, Cakephp, Wordpress, Shopify)
-- Backend expert in Nodejs and Typescript.
-- Backend expert in Java (Spring boot, Spring MVC)
-- Frontend expert in Tailwind, Bootstrap and Javascript Frameworks (Vuejs, Nuxtjs, Reactjs, Angular)
-- Company website [link](https://villartechnologies.com.ve/)
-- I’m currently open for a new job opportunity.
+WordPress & Shopify: Elementor, Divi, WooCommerce, API integrations, and theme customization.
+
+🧠 𝘼𝙄 & 𝙀𝙢𝙚𝙧𝙜𝙞𝙣𝙜 𝙏𝙚𝙘𝙝:
+Experience with AI integration, AI Agents, and LLM-powered applications.
+
+Use of OpenAI APIs, AI workflows, and automation tools for smart, efficient systems.
+
+💻 𝙊𝙩𝙝𝙚𝙧 𝙎𝙠𝙞𝙡𝙡𝙨 𝙄𝙣𝙘𝙡𝙪𝙙𝙚:
+Java & Spring Boot development.
+
+Databases: MySQL, PostgreSQL, SQL Server, MongoDB, DynamoDB.
+
+Cloud & DevOps: AWS, Google Cloud, Docker, Terraform, Linux server management (Apache, Nginx).
+
+Project Tools: Git & Git Flow, Jira, Bitbucket, Trello, Asana.
+
+Agile & Scrum team environments.
+
+🤝 𝙒𝙝𝙖𝙩 𝙔𝙤𝙪 𝘾𝙖𝙣 𝙀𝙭𝙥𝙚𝙘𝙩:
+Clean, secure, and scalable code.
+
+Reliable and clear communication.
+
+Long-term collaboration mindset.
+
+Solutions aligned with your business goals.
+
+📬 𝙇𝙚𝙩’𝙨 𝙗𝙪𝙞𝙡𝙙 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜 𝙜𝙧𝙚𝙖𝙩 𝙩𝙤𝙜𝙚𝙩𝙝𝙚𝙧!
+Feel free to reach out — I’m always open to new opportunities and exciting challenges.
 
 <br><br>
 
